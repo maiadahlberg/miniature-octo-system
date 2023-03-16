@@ -14,3 +14,8 @@
 * Godkänn PR
 * Se till att main är uppdaterad
 * git pull origin main
+
+* Gå in på branch som är efter
+* $ git pull origin main
+* $ git push origin name
+
