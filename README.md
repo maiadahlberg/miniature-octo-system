@@ -5,12 +5,12 @@
 4. Nu kommer steg 4
 
 ##skapa branches
-* $ git switch -C name
-* Göra ändringar
+* $ git switch -C name (git switch C password)
+* Göra ändringar 
 * Git add .
-* Git commit -, "msg"
-* git push origin name
-* Gör en PR(pull request)
+* Git commit -, "msg" (git commit -m "added third step to readme")
+* git push origin name (git push origin password)
+* Gör en PR(pull request) (git switch main)
 * Godkänn PR
 * Se till att main är uppdaterad
 * git pull origin main
